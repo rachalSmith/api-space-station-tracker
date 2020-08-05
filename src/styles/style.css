@@ -1,0 +1,18 @@
+* {
+  margin: 1%;
+}
+
+.styling {
+  font-size: 2em;
+  font-family: 'Poppins', sans-serif;
+  letter-spacing: 1px;
+}
+
+header {
+  text-align: center;
+  font-weight: bold;
+}
+
+#issMap {
+  height: 400px;
+}
